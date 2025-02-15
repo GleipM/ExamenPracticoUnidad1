@@ -1,0 +1,10 @@
+/* Estilos del menú */
+.menu a {
+  transition: all 0.3s ease;
+  border-bottom: 2px solid transparent;
+}
+
+.menu a:hover {
+  border-bottom: 2px solid #000;
+  padding-bottom: 5px;
+}
